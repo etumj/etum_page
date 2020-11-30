@@ -1,0 +1,52 @@
+.nav-spacing {
+    margin: 0 0 0 10px;
+}
+.nav-bar {
+    text-align: right;
+}
+.twitter_link {
+    text-decoration: none;
+}
+.quote_lin {
+    padding: 2px 20px; 
+    background: #fcdcfc;
+}
+
+.top-header {
+    text-align: center; 
+    margin: 0 auto;
+}
+
+.center-heading {
+    text-align: center;
+}
+
+.whale-image {
+    display: block; 
+    margin: 0 auto;
+}
+
+.main-content {
+    width: 500px; 
+    margin: 20px auto; 
+    padding: 30px; 
+    background-color: #fafafa;
+}
+
+.moby-image {
+    height: 200px;
+    float: left; 
+    margin: 5px 40px 5px 0;
+}
+
+.ismail-quote {
+    font-style: normal; 
+    font-size: 24px; 
+    font-weight: bold;
+    color: #00fa00;
+}
+
+.quote-div {
+    font-style: italic; 
+    font-size: 20px;
+}
